@@ -1,0 +1,11 @@
+# RTF files
+*.rtf
+
+build/
+
+# macOS system file
+.DS_Store
+
+#doc files
+docs/installations.md
+docs/notes.md
